@@ -61,15 +61,13 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 
 ### A. Line regulation
 
-*[ Insert the line regulation circuit diagram here ]*
+<img width="1177" height="617" alt="Screenshot 2026-11-25 222519" src="https://github.com/user-attachments/assets/cd03f9e4-bc76-4bb8-b0df-9bbb56cfe22e" />
 
-**Figure 1:** Zener voltage regulator – line regulation
 
 ### B. Load regulation
 
-*[ Insert the load regulation circuit diagram here ]*
+<img width="1085" height="575" alt="Screenshot 2026-11-25 223254" src="https://github.com/user-attachments/assets/875553a0-9524-4853-b499-9ad1cd14ea44" />
 
-**Figure 2:** Zener voltage regulator – load regulation
 
 ## SIMULATION USING PROTEUS
 
@@ -88,32 +86,16 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 **Figure 4:** Proteus simulation – load regulation
 
 ## TABULATION
+### A.Line Regulation Tabulation.
+<img width="997" height="707" alt="Screenshot 2026-11-25 234926" src="https://github.com/user-attachments/assets/7231e114-c35e-46ab-8533-3b93a40ea5a6" />
 
-### A. Line regulation (RL = ________ Ω, constant)
 
-| S. No. | Input voltage Vin (V) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+### B.Load Regulation Tabulation
 
-### B. Load regulation (Vin = ________ V, constant; VNL = ________ V)
+<img width="855" height="697" alt="Screenshot 2026-11-25 234912" src="https://github.com/user-attachments/assets/94344d49-c2d2-405b-8c44-558bea53907c" />
 
-| S. No. | Load resistance RL (Ω) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+
+
 
 ## FORMULAE
 
@@ -127,15 +109,12 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ### A. Line regulation (Vin vs Vo)
 
-*[ Paste / draw the line regulation graph here ]*
+<img width="1386" height="700" alt="Screenshot 2026-11-25 234950" src="https://github.com/user-attachments/assets/2e24327c-afa4-47b8-b2ea-3078160550dd" />
 
-**Figure 5:** Line regulation characteristics
 
 ### B. Load regulation (RL vs Vo)
+<img width="1147" height="696" alt="Screenshot 2026-11-25 234940" src="https://github.com/user-attachments/assets/7d5c9f62-ce83-42f3-8b93-2cc8f110923d" />
 
-*[ Paste / draw the load regulation graph here ]*
-
-**Figure 6:** Load regulation characteristics
 
 ## RESULT
 
