@@ -69,21 +69,6 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 <img width="1085" height="575" alt="Screenshot 2026-11-25 223254" src="https://github.com/user-attachments/assets/875553a0-9524-4853-b499-9ad1cd14ea44" />
 
 
-## SIMULATION USING PROTEUS
-
-Build the Zener regulator circuit in Proteus using the 1N4735A, the series resistor and the load. Vary the input voltage (line regulation) and the load resistance (load regulation), and paste screenshots showing the meter readings.
-
-### A. Line regulation – simulation
-
-*[ Paste the Proteus line regulation simulation screenshot here ]*
-
-**Figure 3:** Proteus simulation – line regulation
-
-### B. Load regulation – simulation
-
-*[ Paste the Proteus load regulation simulation screenshot here ]*
-
-**Figure 4:** Proteus simulation – load regulation
 
 ## TABULATION
 ### A.Line Regulation Tabulation.
